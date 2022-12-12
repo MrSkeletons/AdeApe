@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "638f8657275eb3bc421a2dde"
+  },
+  "nim": {
+    "$numberLong": "205150601111016"
+  },
+  "nama": "Farhan Rama",
+  "departemen": "SI",
+  "prodi": "PTI",
+  "angkatan": 2020,
+  "password": "12345678",
+  "sekolah": [
+    {
+      "$oid": "638f8785d7de22f097c0c942"
+    },
+    {
+      "$oid": "638f8785d7de22f097c0c942"
+    },
+    {
+      "$oid": "638f8785d7de22f097c0c942"
+    },
+    {
+      "$oid": "639159895bed962965501e11"
+    },
+    {
+      "$oid": "638f8785d7de22f097c0c942"
+    }
+  ],
+  "__v": 0,
+  "statusPersetujuan": true
+},{
+  "_id": {
+    "$oid": "639159eb5bed962965501e76"
+  },
+  "nim": {
+    "$numberLong": "205150601111017"
+  },
+  "nama": "Iqbal",
+  "departemen": "SI",
+  "prodi": "PTI",
+  "angkatan": 2020,
+  "password": "123456",
+  "sekolah": [
+    {
+      "$oid": "639159895bed962965501e11"
+    },
+    {
+      "$oid": "639159895bed962965501e11"
+    }
+  ],
+  "__v": 0,
+  "statusPersetujuan": true
+},{
+  "_id": {
+    "$oid": "63956ca31e161b79b57fc05b"
+  },
+  "nim": {
+    "$numberLong": "205150600111012"
+  },
+  "nama": "Arba uhuy",
+  "departemen": "SI",
+  "prodi": "PTI",
+  "angkatan": 2020,
+  "password": "123456",
+  "sekolah": [
+    {
+      "$oid": "638f8785d7de22f097c0c942"
+    }
+  ],
+  "__v": 0,
+  "statusPersetujuan": true
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "638f883dd7de22f097c0c948"
+  },
+  "nim": 1122211,
+  "nama": "Budi",
+  "password": "123456"
+},{
+  "_id": {
+    "$oid": "6391594e5bed962965501db9"
+  },
+  "nim": {
+    "$numberLong": "498572398475"
+  },
+  "nama": "Anto",
+  "password": "123456",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6391aac779e8d57150cfab95"
+  },
+  "nim": {
+    "$numberLong": "2151652154"
+  },
+  "nama": "Dewi",
+  "password": "",
+  "__v": 0
+}]

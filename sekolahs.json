@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "638f8785d7de22f097c0c942"
+  },
+  "nama": "MTSN3 Malang",
+  "alamat": "lowokwaru",
+  "dosen": {
+    "$oid": "639159755bed962965501ddf"
+  },
+  "guru": {
+    "$oid": "638f883dd7de22f097c0c948"
+  }
+},{
+  "_id": {
+    "$oid": "639159895bed962965501e11"
+  },
+  "nama": "SMAN 53 Jakarta",
+  "alamat": "Cipinang Jaya",
+  "dosen": {
+    "$oid": "639159755bed962965501ddf"
+  },
+  "guru": {
+    "$oid": "6391594e5bed962965501db9"
+  },
+  "__v": 0
+}]
